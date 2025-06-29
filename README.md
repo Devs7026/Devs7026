@@ -16,7 +16,7 @@
 - 💼 Full-stack developer with experience in React, Node.js, Python, Java  
 - 🤖 AIML enthusiast | Building with TensorFlow, Keras, Pandas  
 - 🎨 UI/UX lover | Figma, Responsive Design  
-- 🌱 Currently learning: TypeScript, Next.js, and advanced ML  
+- 🌱 Currently learning: Advanced ML, Cloud Computing and DevOps  
 - 📫 Reach me: [devsrijit260705@gmail.com](mailto:devsrijit260705@gmail.com)
 
 ---
