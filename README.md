@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+%7C+AIML+Enthusiast;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=Devs7026&style=flat-square&color=2575FC" alt="Profile views"/>
-</p>
 
 ---
 
