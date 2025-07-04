@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+%7C+AIML+Enthusiast;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=Devs7026&style=flat-square&color=2575FC" alt="Profile views"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -41,9 +46,17 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 
-
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devs7026&show_icons=true&theme=blueberry" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devs7026&theme=blueberry" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devs7026&layout=compact&theme=blueberry" alt="Top Languages"/>
+</p>
+
+---
 
 ### ⚽ Hobbies
 
@@ -51,12 +64,10 @@
 - 📚 Reading                   
 - 🎨 Art  
 - 🤝 Networking
-- 🌍✈️Travelling
+- 🌍✈️ Travelling
 - 🎧 Music
 
 ---
-
-
 
 ### 📫 Connect With Me
 
